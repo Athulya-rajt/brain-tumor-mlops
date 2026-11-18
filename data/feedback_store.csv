@@ -1,0 +1,18 @@
+Timestamp,PatientID,PredictedLabel,ClinicianValidatedLabel,RiskTier,ImageFilePath
+2026-11-17 13:07:50,Test_Patient,Glioma Tumor,Glioma Tumor,High Risk / Critical Malignancy Threshold,data/raw_dicom\MRI_brain_tumor.jpg
+2026-11-17 14:14:33,Test_Patient_01,Meningioma Tumor,"No, False Positive/Negative",,temp_Test_Patient_01.jpg
+2026-11-17 22:12:25,Patient_01,Glioma,"No, False Positive/Negative",,temp_Patient_01.jpg
+2026-11-17 22:12:49,Patient_01,Glioma,"Yes, Confirmed",tumor is confimed get immediate treatment,temp_Patient_01.jpg
+2026-11-17 22:12:53,Patient_01,Glioma,"Yes, Confirmed","tumor is confimed get immediate treatment
+",temp_Patient_01.jpg
+2026-11-17 22:12:55,Patient_01,Glioma,"Yes, Confirmed","tumor is confimed get immediate treatment
+",temp_Patient_01.jpg
+2026-11-17 22:12:57,Patient_01,Glioma,"Yes, Confirmed","tumor is confimed get immediate treatment
+",temp_Patient_01.jpg
+2026-11-17 22:13:02,Patient_01,Glioma,"Yes, Confirmed","tumor is confimed get immediate treatment
+",temp_Patient_01.jpg
+2026-11-17 22:13:07,Patient_01,Glioma,"Yes, Confirmed","tumor is confirmed get immediate treatment
+",temp_Patient_01.jpg
+2026-11-17 22:13:08,Patient_01,Glioma,"Yes, Confirmed","tumor is confirmed get immediate treatment
+",temp_Patient_01.jpg
+2026-11-18 09:44:42,Patient_01,Glioma,"Yes, Confirmed",tumour is detected need immediate medical treatment,temp_Patient_01.jpg

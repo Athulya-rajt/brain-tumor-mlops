@@ -1,0 +1,17 @@
+# Python virtual environments
+venv/
+env/
+ENV/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary diagnostic temp files and outputs
+temp_*.jpg
+data/feedback_logs.csv
+
+# OS generated files
+Thumbs.db
+.DS_Store

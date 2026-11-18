@@ -1,0 +1,23 @@
+# Web Dashboard & Visualization
+streamlit>=1.35.0
+plotly>=5.22.0
+matplotlib>=3.8.0
+
+# Deep Learning & Computer Vision
+tensorflow>=2.16.0
+opencv-python>=4.9.0
+scikit-learn>=1.4.0
+Pillow>=10.3.0
+
+# Medical Imaging (DICOM Support)
+pydicom>=2.4.4
+
+# Data Processing & MLOps Drift Monitoring
+numpy>=1.26.4
+pandas>=2.2.2
+scipy>=1.13.0
+
+# Automated Clinical PDF Reporting
+reportlab>=4.2.0
+fpdf2>=2.7.9
+
