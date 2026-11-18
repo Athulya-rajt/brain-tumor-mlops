@@ -46,3 +46,19 @@ python -m pip install streamlit tensorflow pydicom opencv-python fpdf pandas sci
 pip install -r requirements.txt  
 
 streamlit run app/streamlit_app.py   
+
+# Output
+
+<img width="1347" height="603" alt="Screenshot 2026-11-17 230749" src="https://github.com/user-attachments/assets/4d460d09-4f8e-4adf-84e1-7f55bce3cbee" />
+
+<img width="1600" height="900" alt="demo" src="https://github.com/user-attachments/assets/7122264e-8d4d-47b4-bf47-0a1932336bbb" />
+
+<img width="1333" height="621" alt="Screenshot 2026-11-17 232617" src="https://github.com/user-attachments/assets/6e937df9-8ed7-4652-b8ab-c7b20b92afef" />
+
+<img width="1359" height="627" alt="Screenshot 2026-11-18 094243" src="https://github.com/user-attachments/assets/fccebb5d-271c-4283-90fa-c9c53f44c514" />
+
+<img width="1350" height="624" alt="Screenshot 2026-11-18 094334" src="https://github.com/user-attachments/assets/0a7e750d-bb59-44ab-a251-d381db4b6698" />
+
+<img width="1357" height="619" alt="Screenshot 2026-11-18 094418" src="https://github.com/user-attachments/assets/e9039f1c-ad22-4a8b-bb5a-47be9d5e2429" />
+
+<img width="1346" height="622" alt="Screenshot 2026-11-18 094633" src="https://github.com/user-attachments/assets/b1c986a7-1643-4ac8-9fb5-3bad0bcd612a" />
